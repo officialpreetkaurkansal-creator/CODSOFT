@@ -71,7 +71,7 @@ header{
     background:
         linear-gradient(rgba(0,0,0,.35),
         rgba(0,0,0,.35)),
-        url("../coveriraya.jpg")
+        url("../projects/coveriraya.jpg")
         center/cover; /*keep image centered*/
         
     display:flex;
@@ -143,10 +143,6 @@ header{
     overflow:hidden;  /* hides content outside border radius */
     box-shadow:0 5px 20px rgba(0,0,0,0.08);  /*add soft shadow*/
     transition:.3s;
-}
-
-.card:hover{
-    transform:translateY(-10px);/*lift up on hover*/
 }
 
 .card img{
