@@ -63,7 +63,7 @@ nav ul li a:hover{
 
     background:
         linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
-        url("../portcovergreen.jpeg");
+        url("../projects/portcovergreen.jpeg");
 
     background-size: cover; /* Cover whole section */
     background-position: center; /* Keep image centered */
